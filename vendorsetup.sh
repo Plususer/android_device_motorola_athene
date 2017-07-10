@@ -1,0 +1,3 @@
+add_lunch_combo lineage_athene-userdebug
+add_lunch_combo lineage_athene-user
+add_lunch_combo lineage_athene-eng
